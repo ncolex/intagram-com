@@ -1,0 +1,1 @@
+../PocketBaseServer/pocketbase.exe serve
